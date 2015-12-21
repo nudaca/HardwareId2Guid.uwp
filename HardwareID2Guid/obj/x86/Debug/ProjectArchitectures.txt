@@ -1,0 +1,1 @@
+C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\HardwareID2Guid.csproj;x86

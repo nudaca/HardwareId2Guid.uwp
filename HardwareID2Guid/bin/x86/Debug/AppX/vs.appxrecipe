@@ -1,0 +1,568 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-O9AG537BDR5</Machine>
+    <WindowsUser>ndc</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>6b758f51-6150-4123-b223-b56d1ff7cbec</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>A1F6F40DA0844BF4F43145F221874C831135B57432BD2D4C6F63793EC336EDC7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6b758f51-6150-4123-b223-b56d1ff7cbec_1.0.0.0_x86__k8gp0y86y17pa</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6b758f51-6150-4123-b223-b56d1ff7cbec_k8gp0y86y17pa!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6b758f51-6150-4123-b223-b56d1ff7cbec</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ndc</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-12-21T09:48:15.133</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-08-27T01:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-27T01:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-27T01:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-27T01:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-27T01:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-27T01:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-27T01:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+      <Modified>2015-07-29T09:56:03.240</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\entrypoint\HardwareID2Guid.exe">
+      <PackagePath>entrypoint\HardwareID2Guid.exe</PackagePath>
+      <Modified>2015-12-21T09:48:10.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\HardwareID2Guid.exe">
+      <PackagePath>HardwareID2Guid.exe</PackagePath>
+      <Modified>2015-12-21T09:48:15.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\HardwareID2Guid.xr.xml">
+      <PackagePath>HardwareID2Guid.xr.xml</PackagePath>
+      <Modified>2015-12-21T09:48:10.321</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll">
+      <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
+      <Modified>2015-07-29T09:55:53.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll">
+      <PackagePath>Microsoft.ApplicationInsights.Extensibility.Windows.dll</PackagePath>
+      <Modified>2015-07-29T09:55:53.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll">
+      <PackagePath>Microsoft.ApplicationInsights.PersistenceChannel.dll</PackagePath>
+      <Modified>2015-07-29T09:55:53.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\Microsoft.CSharp.dll">
+      <PackagePath>Microsoft.CSharp.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\Microsoft.VisualBasic.dll">
+      <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
+      <Modified>2015-07-29T09:55:57.728</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll">
+      <PackagePath>Microsoft.Win32.Primitives.dll</PackagePath>
+      <Modified>2015-07-29T09:55:55.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2015-12-21T09:38:24.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-12-21T09:48:12.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.AppContext.dll">
+      <PackagePath>System.AppContext.dll</PackagePath>
+      <Modified>2015-07-29T09:55:57.038</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Collections.Concurrent.dll">
+      <PackagePath>System.Collections.Concurrent.dll</PackagePath>
+      <Modified>2015-07-29T09:55:58.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Collections.dll">
+      <PackagePath>System.Collections.dll</PackagePath>
+      <Modified>2015-07-29T09:55:58.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Collections.Immutable.dll">
+      <PackagePath>System.Collections.Immutable.dll</PackagePath>
+      <Modified>2015-07-29T09:55:57.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Collections.NonGeneric.dll">
+      <PackagePath>System.Collections.NonGeneric.dll</PackagePath>
+      <Modified>2015-07-29T09:56:01.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Collections.Specialized.dll">
+      <PackagePath>System.Collections.Specialized.dll</PackagePath>
+      <Modified>2015-07-29T09:55:58.448</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll">
+      <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
+      <Modified>2015-07-29T09:55:58.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll">
+      <PackagePath>System.ComponentModel.DataAnnotations.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.ComponentModel.dll">
+      <PackagePath>System.ComponentModel.dll</PackagePath>
+      <Modified>2015-07-29T09:55:57.936</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll">
+      <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
+      <Modified>2015-07-29T09:55:55.541</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Core.dll">
+      <PackagePath>System.Core.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Data.Common.dll">
+      <PackagePath>System.Data.Common.dll</PackagePath>
+      <Modified>2015-07-29T09:55:55.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll">
+      <PackagePath>System.Diagnostics.Contracts.dll</PackagePath>
+      <Modified>2015-07-29T09:55:55.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Diagnostics.Debug.dll">
+      <PackagePath>System.Diagnostics.Debug.dll</PackagePath>
+      <Modified>2015-07-29T09:55:58.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll">
+      <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
+      <Modified>2015-07-29T09:55:55.778</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Diagnostics.Tools.dll">
+      <PackagePath>System.Diagnostics.Tools.dll</PackagePath>
+      <Modified>2015-07-29T09:55:57.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll">
+      <PackagePath>System.Diagnostics.Tracing.dll</PackagePath>
+      <Modified>2015-07-29T09:55:58.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.dll">
+      <PackagePath>System.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.977</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Dynamic.Runtime.dll">
+      <PackagePath>System.Dynamic.Runtime.dll</PackagePath>
+      <Modified>2015-07-29T09:55:57.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Globalization.Calendars.dll">
+      <PackagePath>System.Globalization.Calendars.dll</PackagePath>
+      <Modified>2015-07-29T09:55:58.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Globalization.dll">
+      <PackagePath>System.Globalization.dll</PackagePath>
+      <Modified>2015-07-29T09:55:58.558</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Globalization.Extensions.dll">
+      <PackagePath>System.Globalization.Extensions.dll</PackagePath>
+      <Modified>2015-07-29T09:55:57.912</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.IO.Compression.dll">
+      <PackagePath>System.IO.Compression.dll</PackagePath>
+      <Modified>2015-07-29T09:55:58.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll">
+      <PackagePath>System.IO.Compression.ZipFile.dll</PackagePath>
+      <Modified>2015-07-29T09:55:58.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.IO.dll">
+      <PackagePath>System.IO.dll</PackagePath>
+      <Modified>2015-07-29T09:55:58.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.IO.FileSystem.dll">
+      <PackagePath>System.IO.FileSystem.dll</PackagePath>
+      <Modified>2015-07-29T09:55:59.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll">
+      <PackagePath>System.IO.FileSystem.Primitives.dll</PackagePath>
+      <Modified>2015-07-29T09:55:58.973</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll">
+      <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
+      <Modified>2015-07-29T09:55:55.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll">
+      <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
+      <Modified>2015-07-29T09:55:59.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Linq.dll">
+      <PackagePath>System.Linq.dll</PackagePath>
+      <Modified>2015-07-29T09:56:00.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Linq.Expressions.dll">
+      <PackagePath>System.Linq.Expressions.dll</PackagePath>
+      <Modified>2015-07-29T09:56:01.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Linq.Parallel.dll">
+      <PackagePath>System.Linq.Parallel.dll</PackagePath>
+      <Modified>2015-07-29T09:55:59.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Linq.Queryable.dll">
+      <PackagePath>System.Linq.Queryable.dll</PackagePath>
+      <Modified>2015-07-29T09:55:59.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Net.dll">
+      <PackagePath>System.Net.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Net.Http.dll">
+      <PackagePath>System.Net.Http.dll</PackagePath>
+      <Modified>2015-07-29T09:55:59.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Net.Http.Rtc.dll">
+      <PackagePath>System.Net.Http.Rtc.dll</PackagePath>
+      <Modified>2015-07-29T09:55:55.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Net.NetworkInformation.dll">
+      <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
+      <Modified>2015-07-29T09:55:59.261</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Net.Primitives.dll">
+      <PackagePath>System.Net.Primitives.dll</PackagePath>
+      <Modified>2015-07-29T09:55:59.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Net.Requests.dll">
+      <PackagePath>System.Net.Requests.dll</PackagePath>
+      <Modified>2015-07-29T09:55:55.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Net.Sockets.dll">
+      <PackagePath>System.Net.Sockets.dll</PackagePath>
+      <Modified>2015-07-29T09:55:55.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll">
+      <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
+      <Modified>2015-07-29T09:55:55.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Numerics.dll">
+      <PackagePath>System.Numerics.dll</PackagePath>
+      <Modified>2015-07-29T09:55:57.014</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Numerics.Vectors.dll">
+      <PackagePath>System.Numerics.Vectors.dll</PackagePath>
+      <Modified>2015-07-29T09:55:59.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll">
+      <PackagePath>System.Numerics.Vectors.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.056</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.ObjectModel.dll">
+      <PackagePath>System.ObjectModel.dll</PackagePath>
+      <Modified>2015-07-29T09:55:59.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll">
+      <PackagePath>System.Private.DataContractSerialization.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Private.Networking.dll">
+      <PackagePath>System.Private.Networking.dll</PackagePath>
+      <Modified>2015-07-29T09:56:01.889</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Private.ServiceModel.dll">
+      <PackagePath>System.Private.ServiceModel.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Private.Uri.dll">
+      <PackagePath>System.Private.Uri.dll</PackagePath>
+      <Modified>2015-07-29T09:55:54.913</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Reflection.Context.dll">
+      <PackagePath>System.Reflection.Context.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll">
+      <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
+      <Modified>2015-07-29T09:55:59.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Reflection.dll">
+      <PackagePath>System.Reflection.dll</PackagePath>
+      <Modified>2015-07-29T09:55:59.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Reflection.Emit.dll">
+      <PackagePath>System.Reflection.Emit.dll</PackagePath>
+      <Modified>2015-07-29T09:56:03.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll">
+      <PackagePath>System.Reflection.Emit.ILGeneration.dll</PackagePath>
+      <Modified>2015-07-29T09:56:03.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll">
+      <PackagePath>System.Reflection.Emit.Lightweight.dll</PackagePath>
+      <Modified>2015-07-29T09:56:03.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Reflection.Extensions.dll">
+      <PackagePath>System.Reflection.Extensions.dll</PackagePath>
+      <Modified>2015-07-29T09:55:59.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Reflection.Metadata.dll">
+      <PackagePath>System.Reflection.Metadata.dll</PackagePath>
+      <Modified>2015-07-29T09:55:59.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Reflection.Primitives.dll">
+      <PackagePath>System.Reflection.Primitives.dll</PackagePath>
+      <Modified>2015-07-29T09:55:59.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll">
+      <PackagePath>System.Reflection.TypeExtensions.dll</PackagePath>
+      <Modified>2015-07-29T09:55:59.632</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Resources.ResourceManager.dll">
+      <PackagePath>System.Resources.ResourceManager.dll</PackagePath>
+      <Modified>2015-07-29T09:56:00.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2015-07-29T09:56:01.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Runtime.Extensions.dll">
+      <PackagePath>System.Runtime.Extensions.dll</PackagePath>
+      <Modified>2015-07-29T09:56:01.368</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Runtime.Handles.dll">
+      <PackagePath>System.Runtime.Handles.dll</PackagePath>
+      <Modified>2015-07-29T09:56:00.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Runtime.InteropServices.dll">
+      <PackagePath>System.Runtime.InteropServices.dll</PackagePath>
+      <Modified>2015-07-29T09:56:00.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.InteropServices.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Runtime.Numerics.dll">
+      <PackagePath>System.Runtime.Numerics.dll</PackagePath>
+      <Modified>2015-07-29T09:56:00.926</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Runtime.Serialization.dll">
+      <PackagePath>System.Runtime.Serialization.dll</PackagePath>
+      <Modified>2015-07-29T09:55:57.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll">
+      <PackagePath>System.Runtime.Serialization.Json.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll">
+      <PackagePath>System.Runtime.Serialization.Primitives.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll">
+      <PackagePath>System.Runtime.Serialization.Xml.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.845</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.UI.Xaml.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Security.Claims.dll">
+      <PackagePath>System.Security.Claims.dll</PackagePath>
+      <Modified>2015-07-29T09:56:00.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Security.Principal.dll">
+      <PackagePath>System.Security.Principal.dll</PackagePath>
+      <Modified>2015-07-29T09:56:00.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.ServiceModel.dll">
+      <PackagePath>System.ServiceModel.dll</PackagePath>
+      <Modified>2015-07-29T09:55:57.046</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll">
+      <PackagePath>System.ServiceModel.Duplex.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.ServiceModel.Http.dll">
+      <PackagePath>System.ServiceModel.Http.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.496</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll">
+      <PackagePath>System.ServiceModel.NetTcp.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll">
+      <PackagePath>System.ServiceModel.Primitives.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.967</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.ServiceModel.Security.dll">
+      <PackagePath>System.ServiceModel.Security.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.ServiceModel.Web.dll">
+      <PackagePath>System.ServiceModel.Web.dll</PackagePath>
+      <Modified>2015-07-29T09:55:57.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll">
+      <PackagePath>System.Text.Encoding.CodePages.dll</PackagePath>
+      <Modified>2015-07-29T09:55:57.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Text.Encoding.dll">
+      <PackagePath>System.Text.Encoding.dll</PackagePath>
+      <Modified>2015-07-29T09:56:00.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll">
+      <PackagePath>System.Text.Encoding.Extensions.dll</PackagePath>
+      <Modified>2015-07-29T09:56:00.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Text.RegularExpressions.dll">
+      <PackagePath>System.Text.RegularExpressions.dll</PackagePath>
+      <Modified>2015-07-29T09:56:00.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Threading.dll">
+      <PackagePath>System.Threading.dll</PackagePath>
+      <Modified>2015-07-29T09:56:00.868</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Threading.Overlapped.dll">
+      <PackagePath>System.Threading.Overlapped.dll</PackagePath>
+      <Modified>2015-07-29T09:55:54.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll">
+      <PackagePath>System.Threading.Tasks.Dataflow.dll</PackagePath>
+      <Modified>2015-07-29T09:56:01.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Threading.Tasks.dll">
+      <PackagePath>System.Threading.Tasks.dll</PackagePath>
+      <Modified>2015-07-29T09:56:00.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll">
+      <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
+      <Modified>2015-07-29T09:56:01.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Threading.Timer.dll">
+      <PackagePath>System.Threading.Timer.dll</PackagePath>
+      <Modified>2015-07-29T09:56:01.859</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Windows.dll">
+      <PackagePath>System.Windows.dll</PackagePath>
+      <Modified>2015-07-29T09:55:57.174</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Xml.dll">
+      <PackagePath>System.Xml.dll</PackagePath>
+      <Modified>2015-07-29T09:55:57.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Xml.Linq.dll">
+      <PackagePath>System.Xml.Linq.dll</PackagePath>
+      <Modified>2015-07-29T09:55:57.209</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll">
+      <PackagePath>System.Xml.ReaderWriter.dll</PackagePath>
+      <Modified>2015-07-29T09:56:01.878</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Xml.Serialization.dll">
+      <PackagePath>System.Xml.Serialization.dll</PackagePath>
+      <Modified>2015-07-29T09:55:57.276</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Xml.XDocument.dll">
+      <PackagePath>System.Xml.XDocument.dll</PackagePath>
+      <Modified>2015-07-29T09:56:01.368</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Xml.XmlDocument.dll">
+      <PackagePath>System.Xml.XmlDocument.dll</PackagePath>
+      <Modified>2015-07-29T09:55:54.796</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll">
+      <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
+      <Modified>2015-07-29T09:55:56.692</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ndc\Documents\GitHub\HardwareID2Guid\HardwareID2Guid\bin\x86\Debug\Core\WinMetadata\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2015-12-16T16:24:18.435</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23302.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23302.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\ARM\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23302.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23302.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x64\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23302.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23302.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x86\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23019.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23019.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23019.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23019.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23019.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23019.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
